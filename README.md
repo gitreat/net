@@ -1,2 +1,2 @@
-# net
+# Readme
 Some rules for selfuse.
